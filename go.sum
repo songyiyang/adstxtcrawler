@@ -1,0 +1,4 @@
+github.com/songyiyang/adstxtcrawler v0.0.0-20230703153849-bada27d0dca2 h1:6YKHlIO/ZR+YU6RhVTdxzTV2qUkfzQu6zziPL7s3YeE=
+github.com/songyiyang/adstxtcrawler v0.0.0-20230703153849-bada27d0dca2/go.mod h1:0yv7b5H/kVvx977WmZKUzHf3jFby45CyUb95QdN27sg=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 h1:VpOs+IwYnYBaFnrNAeB8UUWtL3vEUnzSCL1nVjPhqrw=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=

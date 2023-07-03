@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ysong/adstxtcrawler"
+	"github.com/songyiyang/adstxtcrawler"
 	"log"
 	"net/http"
 	"os"
